@@ -8,4 +8,4 @@ It has 2 segments:
 
 The colaboratory notebook has its different cells dedicated to KNN Application and then the clustering of various features of the dataset.
 
-3. Gradio : I have left a link to my space on the google form itself.
+3. Gradio : I have left a link to my space on the google form itself. (Link: https://huggingface.co/spaces/Hsemih/PropPric/tree/main)
