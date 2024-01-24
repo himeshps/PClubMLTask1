@@ -6,4 +6,6 @@ It has 2 segments:
 
 2. Clustering: I have chosen 10 features (out of the 14 previously as the left out 4 were similar to one of the chosen ones) and applied clustering using K-Means on them with colour grading wherever necessary for distinction and better representation. These features as per data analysis would be sufficient to present a good enough prediction over property prices on the data set available on Kaggle.
 
+The colaboratory notebook has its different cells dedicated to KNN Application and then the clustering of various features of the dataset.
+
 3. Gradio : I have left a link to my space on the google form itself.
